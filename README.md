@@ -1,3 +1,3 @@
 
 
-Please go to src/com230
+Projects inside src folder.
